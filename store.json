@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "storeName": "Mregamers Store",
-  "updatedAt": "2026-10-07T03:38:47Z",
+  "updatedAt": "2026-10-07T04:01:40Z",
   "categories": [
     "Games",
     "Apps",
@@ -25,10 +25,10 @@
           "versionName": "0.1.0",
           "versionCode": 1,
           "apkUrl": "https://github.com/devvmonks-glitch/mregamers-store/releases/download/unfished-gorilla-game-v0.1.0-1/unfished-gorilla-game-0.1.0-1.apk",
-          "sizeBytes": 212946205,
-          "sha256": "5ba02f2a48b2eda607887066fc01c6dfa47cb42a739c7eb2836023fdb08282d0",
-          "releasedAt": "2026-10-07T03:38:46Z",
-          "changelog": "Base Update Made at 7:13 10/6",
+          "sizeBytes": 188065304,
+          "sha256": "64f330073b3557276d834220055bd70ad8bf69be711b4974079a402ee57ebc59",
+          "releasedAt": "2026-10-07T04:01:40Z",
+          "changelog": "GoKarts And New Map",
           "releaseTag": "unfished-gorilla-game-v0.1.0-1"
         }
       ]
