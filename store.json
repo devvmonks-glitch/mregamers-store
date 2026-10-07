@@ -1,11 +1,26 @@
 {
   "schema": 1,
   "storeName": "Mregamers Store",
-  "updatedAt": "2026-10-07T03:35:34Z",
+  "updatedAt": "2026-10-07T03:37:03Z",
   "categories": [
     "Games",
     "Apps",
     "Tools"
   ],
-  "apps": []
+  "apps": [
+    {
+      "id": "unfished-gorilla-game",
+      "name": "Unfished Gorilla Game",
+      "packageName": "com.Mregamer2000.UnfishedGorillaGame",
+      "category": "Games",
+      "developer": "Mregamer2000 & Smog",
+      "shortDescription": "A Amazing Gorilla Tag Fan Game!",
+      "description": "",
+      "icon": "https://raw.githubusercontent.com/devvmonks-glitch/mregamers-store/main/assets/unfished-gorilla-game/icon-20261007033659793.png",
+      "banner": "https://raw.githubusercontent.com/devvmonks-glitch/mregamers-store/main/assets/unfished-gorilla-game/banner-20261007033701050.png",
+      "screenshots": [],
+      "hidden": false,
+      "versions": []
+    }
+  ]
 }
