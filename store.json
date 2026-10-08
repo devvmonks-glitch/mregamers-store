@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "storeName": "Mregamers Store",
-  "updatedAt": "2026-10-07T04:01:40Z",
+  "updatedAt": "2026-10-08T08:20:09Z",
   "categories": [
     "Games",
     "Apps",
@@ -21,6 +21,16 @@
       "screenshots": [],
       "hidden": false,
       "versions": [
+        {
+          "versionName": "0.2.0",
+          "versionCode": 2,
+          "apkUrl": "https://github.com/devvmonks-glitch/mregamers-store/releases/download/unfished-gorilla-game-v0.2.0-2/unfished-gorilla-game-0.2.0-2.apk",
+          "sizeBytes": 241758397,
+          "sha256": "c047331352d584304a7a516c132a72bc6c98636a2e4e91e85d099884a99f0c06",
+          "releasedAt": "2026-10-08T08:20:09Z",
+          "changelog": "",
+          "releaseTag": "unfished-gorilla-game-v0.2.0-2"
+        },
         {
           "versionName": "0.1.0",
           "versionCode": 1,
